@@ -85,5 +85,3 @@ Based on the supplied dataset:
 
 The dashboard helps users explore sales performance across different business dimensions, identify stronger-performing product categories and sales representatives, monitor monthly trends, and compare supplier contributions.
 
-
-*Data Analytics | Power BI | SQL | Data Visualisation*
