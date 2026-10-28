@@ -8,7 +8,7 @@ The project involved data cleaning and transformation using Power Query, data mo
 
 ## Dashboard Preview
 
-<img width="1137" height="641" alt="image" src="https://github.com/user-attachments/assets/c02ef5a6-5b5e-409e-b057-25fff171c58a" />
+<img width="1130" height="641" alt="image" src="https://github.com/user-attachments/assets/f4839400-e099-4513-9ba8-e0e9b5e2fdc5" />
 
 
 ## Business Objectives
